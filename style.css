@@ -17,6 +17,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     position: relative;
     background: #ffff;
+    overflow-x: hidden;
 }
 
 html {
